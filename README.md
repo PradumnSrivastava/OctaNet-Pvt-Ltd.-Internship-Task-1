@@ -1,5 +1,8 @@
-*OctaNet Pvt Ltd. 
-*Web Development Internship Task 1 (Landing Page)
+                                                                            OctaNet Pvt Ltd. 
+
+
+
+Web Development Internship Task 1 (Landing Page)
 
 **Developed using HTML, CSS & JS.\
 
