@@ -4,7 +4,7 @@
 
 Web Development Internship Task 1 (Landing Page)
 
-**Developed using HTML, CSS & JS.\
+**Developed using HTML, CSS & JS.
 
 
 -> In Light Mode
